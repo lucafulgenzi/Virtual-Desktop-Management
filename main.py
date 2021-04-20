@@ -3,7 +3,7 @@
 import os
 import sys
 
-TEXT_PATH = '/Users/lucafulgenzi/tmp.txt'
+TEXT_PATH = '/PATH/TO/TXT/FILE'
 
 def main(space):
   if space != '1':
