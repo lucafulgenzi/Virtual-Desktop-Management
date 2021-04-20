@@ -1,7 +1,7 @@
 # Virtual Desktop Management Script
 
 Script for managing virtual desktops on macOS, such as i3.
-Based on skhd and yabai 
+Based on [skhd](https://github.com/koekeishiya/skhd) and [yabai](https://github.com/koekeishiya/yabai) 
 
 ## Usage
 
