@@ -9,6 +9,11 @@ Edit `main.py` and change `TEXT_PATH`
 
 TEXT_PATH is the path of a text document used to control virtual desktop
 
+Example
+
+`User/<user_name>/screen.txt`
+
+
 
 Edit `.skhdrc`
 
