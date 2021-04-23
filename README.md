@@ -42,5 +42,6 @@ If the desktop we want to move from is empty that desktop is deleted and we are 
 ### WORKS WITH ONLY ONE SCREEN 
 
 ## Future features
+- [ ] Disable macOS window auto-index
 - [ ] Work on multiple display
 - [ ] Move an application between desktop
